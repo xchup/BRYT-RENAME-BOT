@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "21302204"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "ac63948ee542b3c436450abf7d21939b"
         },
         "WEB_SUPPORT": {
             "description": "if your server is need web service! value = True else value = False",
@@ -19,15 +19,16 @@
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "value": "+_50uiqZh9FhhYTQ9",
             "required": false 
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "7833927958:AAFLWraFRWp90d50oyxO-d2kCaxD2CFBriI"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
+            "value": "xchup"
         },
         "LOG_CHANNEL": {
             "description":"Bot Log Sending Channel (just create a private channel and add bot to admin and take channel id to add this variable) ⚠️ id startswith -100 must",
@@ -35,16 +36,16 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://xchup:<db_bryt@2003>@cluster0.ufyqk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "xchup",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "",
+            "value": "https://iili.io/2sgSTXt.jpg",
             "required": false
         }
     },
