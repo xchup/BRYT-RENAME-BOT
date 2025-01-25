@@ -22,7 +22,7 @@ services:
       - key: DB_NAME
         sync: false
       - key: DB_URL
-        sync: false
+        sync: mongodb+srv://xchup:<db_bryt@2003>@cluster0.ufyqk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       - key: START_PIC
         sync: false
       - key: ADMIN
