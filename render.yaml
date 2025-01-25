@@ -24,7 +24,8 @@ services:
       - key: DB_URL
         sync: false
       - key: START_PIC
-        sync: false
+        value: https://iili.io/2sgSTXt.jpg
+        sync: true
       - key: ADMIN
         sync: false
       - key: WEB_SUPPORT
