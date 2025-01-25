@@ -35,7 +35,8 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://xchup:<db_bryt@2003>@cluster0.ufyqk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            "required": true 
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
